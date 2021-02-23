@@ -35,10 +35,10 @@ DMM獨家
 
 <img src="https://cdn.jsdelivr.net/gh/ghcdn/img/20210223172714.png" width=100%>
 <div id="offical-pic">
- <img src="./img/pic0.jpg" width=32% > <img src="./img/pic1.jpg" width=32% > <img src="./img/pic2.jpg" width=32% >
- <img src="./img/pic3.jpg" width=32% > <img src="./img/pic4.jpg" width=32% > <img src="./img/pic5.jpg" width=32% > 
- <img src="./img/pic6.jpg" width=32% > <img src="./img/pic7.jpg" width=32% > <img src="./img/pic8.jpg" width=32% >
- <img src="./img/pic9.jpg" width=32% >
+ <img src="./img/pic0.jpg" width=33% > <img src="./img/pic1.jpg" width=33% > <img src="./img/pic2.jpg" width=33% >
+ <img src="./img/pic3.jpg" width=33% > <img src="./img/pic4.jpg" width=33% > <img src="./img/pic5.jpg" width=33% > 
+ <img src="./img/pic6.jpg" width=33% > <img src="./img/pic7.jpg" width=33% > <img src="./img/pic8.jpg" width=33% >
+ <img src="./img/pic9.jpg" width=33% >
 </div>
 <p>视频略缩图：</p>
 <div id="thumb-pic">
